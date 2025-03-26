@@ -12,3 +12,8 @@ format:
 	black *.py nlplogic
 
 all: install lint test format
+
+
+
+# python -m venv .venv
+# source .venv/bin/activate
